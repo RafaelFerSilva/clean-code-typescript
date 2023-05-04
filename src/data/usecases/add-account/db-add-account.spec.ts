@@ -1,4 +1,4 @@
-import { type Encrypter } from '../../protocols/encrypter'
+import { type Encrypter } from './db-ad-account-protocols'
 import { DbAddAccount } from './db-add-account'
 
 interface SutTypes {
