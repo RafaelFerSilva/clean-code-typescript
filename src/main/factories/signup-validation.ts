@@ -1,5 +1,5 @@
-import { CompareFieldsValidation } from '../../presentation/helpers/validators/compare-fields-validarion'
-import { RequiredFieldValidarion } from '../../presentation/helpers/validators/required-field-validarion'
+import { CompareFieldsValidation } from '../../presentation/helpers/validators/compare-fields-validation'
+import { RequiredFieldValidarion } from '../../presentation/helpers/validators/required-field-validation'
 import { type Validation } from '../../presentation/helpers/validators/validation'
 import { ValidationComposite } from '../../presentation/helpers/validators/validation-composite'
 
